@@ -1,6 +1,6 @@
 # jstransformer-whiskers
 
-JSTransformer support for whiskers.js
+JSTransformer support for [whiskers.js](https://github.com/gsf/whiskers.js).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-whiskers/master.svg)](https://travis-ci.org/jstransformers/jstransformer-whiskers)
 [![Coverage Status](https://img.shields.io/coveralls/jstransformers/jstransformer-whiskers/master.svg)](https://coveralls.io/r/jstransformers/jstransformer-whiskers?branch=master)
