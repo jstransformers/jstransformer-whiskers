@@ -1,0 +1,10 @@
+{
+  "header": "<h1>{title}</h1><p id='by'>{author}</p>",
+  "title": "My life",
+  "author": "Bars Thorman",
+  "tags": [
+    "real",
+    "vivid"
+  ],
+  "content": "I grew up into a fine willow."
+}

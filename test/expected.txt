@@ -1,0 +1,4 @@
+<article><header><h1>My life</h1><p id='by'>Bars Thorman</p></header>
+<ul id="tags"><li>real</li><li>vivid</li></ul>
+<div>I grew up into a fine willow.</div>
+</article>
