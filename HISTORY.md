@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.1.0: 2015-04-10
+## v0.1.0: 2015-07-22
 
 - Updated Boilerplate
 - Switched to `.compile()`
