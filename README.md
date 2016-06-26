@@ -15,8 +15,9 @@
 
 ```js
 var whiskers = require('jstransformer')(require('jstransformer-whiskers'))
-var template = "Hello {name}!";
-var locals = { name: "World" };
+
+var template = "Hello {name}!"
+var locals = { name: "World" }
 
 whiskers.render(template, locals).body
 //=> 'Hello World!'
