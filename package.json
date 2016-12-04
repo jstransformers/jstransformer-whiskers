@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "whiskers": "^0.3.3"
+    "whiskers": "^0.4.0"
   },
   "name": "jstransformer-whiskers",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Whiskers.js support for JSTransformers.",
   "keywords": [
     "jstransformer"

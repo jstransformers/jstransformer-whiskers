@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.1: [Unreleased]
+
+- Update Whiskers to 0.4.0
+
 ## v0.2.0: 2016-06-26
 
 - Updated Boilerplate
