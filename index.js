@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var whiskers = require('whiskers');
+var whiskers = require('whiskers')
 
-exports.name = 'whiskers';
-exports.outputFormat = 'html';
+exports.name = 'whiskers'
+exports.outputFormat = 'html'
 
-exports.compile = whiskers.compile;
+exports.compile = whiskers.compile
