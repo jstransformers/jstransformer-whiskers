@@ -1,5 +1,7 @@
 # jstransformer-whiskers
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-whiskers.svg)](https://greenkeeper.io/)
+
 [Whiskers.js](https://github.com/gsf/whiskers.js) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-whiskers/master.svg)](https://travis-ci.org/jstransformers/jstransformer-whiskers)
