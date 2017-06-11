@@ -1,6 +1,6 @@
 'use strict'
 
-var whiskers = require('whiskers')
+const whiskers = require('whiskers')
 
 exports.name = 'whiskers'
 exports.outputFormat = 'html'
